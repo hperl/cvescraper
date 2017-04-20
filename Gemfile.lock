@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cve_scraper (0.0.5)
+      hpricot (~> 0.8.6)
+      redis (~> 3.0.6)
+      rubyXL (~> 1.2.10)
+      rubyzip (~> 1.1.0)
+    hpricot (0.8.6)
+    redis (3.0.7)
+    rubyXL (1.2.10)
+    rubyzip (1.1.6)
+    socksify (1.6.0)
+    tor_requests (0.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cve_scraper (~> 0.0.5)
+  socksify
+  tor_requests

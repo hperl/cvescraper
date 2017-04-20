@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hpricot (0.8.6)
+    redis (3.0.6)
+    rubyXL (1.2.10)
+    rubyzip (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hpricot (~> 0.8.6)
+  redis (~> 3.0.6)
+  rubyXL (~> 1.2.10)
+  rubyzip (~> 1.1.0)

@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'redis', '~> 3.0.6'
+gem 'hpricot', '~> 0.8.6'
+gem 'rubyXL', '~> 1.2.10'
+gem 'rubyzip', '~> 1.1.0'
